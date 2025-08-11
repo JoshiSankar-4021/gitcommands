@@ -51,5 +51,15 @@ console.log('This is a simple Node.js application.');
 // node index.js
 // Feel free to modify the code, add more features, or use it as a starting point for your own projects.
 // Node.js is a powerful platform for building server-side applications using JavaScript.
-
+// Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+// It allows you to run JavaScript code on the server side, enabling you to build scalable network applications.
+// If you're new to Node.js, consider exploring its documentation and tutorials to learn more about its capabilities.
+// You can find the official Node.js documentation here: https://nodejs.org/en/docs/
+// This code is a simple example of a Node.js application.
+// It prints two messages to the console, demonstrating basic functionality.
+// You can run this code by saving it in a file named index.js and executing it with Node.js.
+// To run the application, use the command:
+// node index.js
+// Feel free to modify the code, add more features, or use it as a starting point for your own projects.
+// Node.js is a powerful platform for building server-side applications using JavaScript.
 
